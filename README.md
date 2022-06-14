@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/78622458/173414615-8af52996-0922-4338-a3ce-c69a3447cc8b.png)
 
 ### 🔖 Sobre
-Sexto dia do desafio foi o momento de aprender sobre o toggle que basicamente altera uma tag HTML ao passar o mouse ou clicar, e um exemplo ideal para fazer isto é com uma galeria de fotos.
+Quinto dia do desafio foi o momento de aprender sobre o toggle que basicamente altera uma tag HTML ao passar o mouse ou clicar, e um exemplo ideal para fazer isto é com uma galeria de fotos.
 
 5/30
 
